@@ -1,10 +1,10 @@
-## 🚀 Stripe Integration Demo
+## Stripe Integration Demo
 
 This is a sample demo application showcasing how to integrate **Stripe** with **Better Pay**.
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the Repository
 
