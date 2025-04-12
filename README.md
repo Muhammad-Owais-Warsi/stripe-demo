@@ -9,7 +9,7 @@ This is a sample demo application showcasing how to integrate **Stripe** with **
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Muhammad-Owais-Warsi/stripe-demo.git
+git clone https://github.com/YOUR_USERNAME/stripe-demo.git
 cd stripe-demo
 ```
 
